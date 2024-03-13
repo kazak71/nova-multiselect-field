@@ -1,5 +1,5 @@
 {
-  "name": "outl1ne/nova-multiselect-field",
+  "name": "kazak71/nova-multiselect-field",
   "description": "A multiple select field for Laravel Nova.",
   "keywords": [
     "laravel",
@@ -24,7 +24,7 @@
     "php": ">=8.0",
     "laravel/nova": "^4.27",
     "nova-kit/nova-packages-tool": "^1.12",
-    "outl1ne/nova-translations-loader": "^5.0"
+    "kazak71/nova-translations-loader": "dev-master"
   },
   "require-dev": {
     "nova-kit/nova-devtool": "^1.2.1"
